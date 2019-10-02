@@ -1,4 +1,3 @@
-# Communicate-Data-Findings
 Bike Sharing Analysis with Ford GoBike Data
 By Sultan Ali
 We have 3 different data sources in the web page https://s3.amazonaws.com/baywheels-data/index.html and they are as follows. 
