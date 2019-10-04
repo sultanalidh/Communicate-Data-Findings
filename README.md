@@ -6,7 +6,7 @@ We have 3 different data sources in the web page https://s3.amazonaws.com/baywhe
 2. A number of 12 zip files for forgobike 2018 for 12 months
 3. A number of 4 zip files for forgobike 2019 for 4 months in year 2019 Note: There is another 5 months has a different name in 2019 won't be included here because they may be from different activities if we need to we can easily add another function for that.<br>
 
-<b>The main funding: <b>
+The main funding:
 - In general The months March and April and October have the most usage in the year for all users. <br>
 - In general the weekdays have more rides than weekends for all users.<br>
 - There are Only 11.5% of the users are customer whereas 88.5% are Subscriber.<br>
