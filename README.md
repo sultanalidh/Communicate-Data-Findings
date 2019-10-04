@@ -1,6 +1,6 @@
 Bike Sharing Analysis with Ford GoBike Data
 By Sultan Ali
-We have 3 different data sources in the web page https://s3.amazonaws.com/baywheels-data/index.html and they are as follows. 
+We have 3 different data sources in the web page https://s3.amazonaws.com/baywheels-data/index.html and they are as follows. <b>
 
 A CSV file for forgobike 2017
 A number of 12 zip files for forgobike 2018 for 12 months
