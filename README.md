@@ -3,7 +3,7 @@ Bike Sharing Analysis with Ford GoBike Data<br>
 We have 3 different data sources in the web page https://s3.amazonaws.com/baywheels-data/index.html and they are as follows. <br>
 1. A CSV file for forgobike 2017
 2. A number of 12 zip files for forgobike 2018 for 12 months
-3. A number of 4 zip files for forgobike 2019 for 4 months in year 2019 Note: There is another 5 months has a different name in 2019 won't be included here because they may be from different activities if we need to we can easily add another function for that.<br>
+3. A number of 4 zip files for forgobike 2019 for 4 months in year 2019 Note: There is another 5 months have different names in 2019 won't be included here because they may be from different activities if we need to we can easily add another function for that.<br>
 
 The main funding:
 - In general The months March and April and October have the most usage in the year for all users. <br>
